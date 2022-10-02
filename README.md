@@ -1,12 +1,11 @@
-## Hey 👋, This is zR
+## Hey 👋, 这里是zR，一个又菜又爱玩的大学生
 
-Here are some ideas to get you started:
-
-- :pencil: I’m currently Studying in XJTLU University
-- :penguin: OS: Ubuntu 22.04
+- :pencil: 大学: XJTLU 西交利物浦大学 
+- :busts_in_silhouette: 专业: 数据科学与大数据技术
+- :penguin: 操作系统: Ubuntu 22.04
 - :fire: Cuda: Crazy AMD Rocm! 
-- :robot: I'm a coding rookie
-- :wrench: Kindly give us your advice,please.
+- :robot: 编程: 萌新，菜的抠脚~
+- :wrench: 刚入坑，请多指教。
 
 [![zR's GitHub stats](https://github-readme-stats.vercel.app/api?username=zRzRzRzRzRzRzR&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zRzRzRzRzRzRzR&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
