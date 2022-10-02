@@ -2,12 +2,15 @@
 <a>
   <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/1.png"  width="180" height="240" />
 </a>
-- :pencil: 大学: XJTLU 西交利物浦大学 
-- :busts_in_silhouette: 专业: 数据科学与大数据技术
-- :penguin: 操作系统: Ubuntu 22.04
-- :fire: Cuda: Crazy AMD Rocm! 
-- :robot: 编程: 萌新，菜的抠脚~
-- :wrench: 刚入坑，请大佬们多多指教，不胜感激
+<a>
+  <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/logo1.png"  width="180" height="240" />
+</a>
+- :pencil: 大学: XJTLU 西交利物浦大学<br>
+- :busts_in_silhouette: 专业: 数据科学与大数据技术<br>
+- :penguin: 操作系统: Ubuntu 22.04<br>
+- :fire: Cuda: Crazy AMD Rocm!<br>
+- :robot: 编程: 萌新，菜的抠脚~ <br>
+- :wrench: 刚入坑，请大佬们多多指教，不胜感激! <br>
 
 [![zR's GitHub stats](https://github-readme-stats.vercel.app/api?username=zRzRzRzRzRzRzR&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zR&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
