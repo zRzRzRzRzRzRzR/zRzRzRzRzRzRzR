@@ -1,6 +1,6 @@
 ## Hey 👋, 这里是zR，一个又菜又爱玩的大学生
 <a>
-  <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/logo1.png"  width="100" height="100" border="200"/>
+  <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/logo2.png"  width="80" height="80" border="80"/>
 </a>
 <a>
   <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/1.png" width="180" height="240"  />
