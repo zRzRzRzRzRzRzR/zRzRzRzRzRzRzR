@@ -1,9 +1,9 @@
 ## Hey 👋, 这里是zR，一个又菜又爱玩的大学生
 <a>
-  <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/1.png"  width="100" height="100" border="200"; />
+  <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/1.png" width="180" height="240"  />
 </a>
 <a>
-  <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/logo1.png"  width="180" height="240" />
+  <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/logo1.png"  width="100" height="100" border="200"/>
 </a>
 - :pencil: 大学: XJTLU 西交利物浦大学<br>
 - :busts_in_silhouette: 专业: 数据科学与大数据技术<br>
