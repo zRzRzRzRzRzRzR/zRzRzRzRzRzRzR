@@ -2,7 +2,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Studying in XJTLU University
+- :pencil: I’m currently Studying in XJTLU University
+- :penguin: OS: Ubuntu 22.04
+- :fire: Cuda: Crazy AMD Rocm! 
+- :robot: I'm a coding rookie
+- :wrench: Kindly give us your advice,please.
 
 [![zR's GitHub stats](https://github-readme-stats.vercel.app/api?username=zRzRzRzRzRzRzR&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zRzRzRzRzRzRzR&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
