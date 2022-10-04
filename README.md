@@ -13,8 +13,7 @@
 - :robot: 编程: 萌新，菜的抠脚~ <br>
 - :wrench: 刚入坑，请大佬们多多指教，不胜感激! <br>
 <br>
-
-[![zR's GitHub stats](https://github-readme-stats.vercel.app/api?username=zRzRzRzRzRzRzR&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zRzRzRzRzRzRzR&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zR&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zRzRzRzRzRzRzR&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![zR's github activity graph](https://activity-graph.herokuapp.com/graph?username=zRzRzRzRzRzRzR&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
