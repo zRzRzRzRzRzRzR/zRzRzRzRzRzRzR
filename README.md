@@ -15,7 +15,8 @@
 - :wrench: 刚入坑，请大佬们多多指教，不胜感激! <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zRzRzRzRzRzRzR&count_private=true&show_icons=true&theme=dark)
-![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=zRzRzRzRzRzRzR&cn=true&theme=dark)<br>
+![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=zRzRzRzRzRzRzR&cn=true&theme=dark)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zR&theme=dark)
 ![zR's github activity graph](https://activity-graph.herokuapp.com/graph?username=zRzRzRzRzRzRzR&theme=high-contrast)
 
 
