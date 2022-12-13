@@ -16,7 +16,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zRzRzRzRzRzRzR&count_private=true&show_icons=true&theme=dark)
 ![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=zRzRzRzRzRzRzR&cn=true&theme=dark)
-![zR's github activity graph](https://activity-graph.herokuapp.com/graph?username=zRzRzRzRzRzRzR&theme=high-contrast)
+[![zR's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zRzRzRzRzRzRzR&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
