@@ -9,8 +9,7 @@
 - :pencil: 大学: XJTLU 西交利物浦大学<br>
 - :busts_in_silhouette: 专业: 数据科学与大数据技术<br>
 - :penguin: 操作系统: Ubuntu 22.04<br>
-- :fire: Cuda: Crazy AMD Rocm!<br>
-- :diamond_shape_with_a_dot_inside: 方向：人工智能，计算机视觉，图像分类，目标检测，关键点检测 （都不会）<br>
+- :diamond_shape_with_a_dot_inside: 方向：人工智能，计算机视觉，图像分类，目标检测，关键点检测，医学图像配准<br>
 - :robot: 编程: 萌新，菜的抠脚~ <br>
 - :wrench: 刚入坑，请大佬们多多指教，不胜感激! <br>
 
