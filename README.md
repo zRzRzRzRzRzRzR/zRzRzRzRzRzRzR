@@ -13,8 +13,8 @@
 - :robot: 编程: 萌新，菜的抠脚~ <br>
 - :wrench: 刚入坑，请大佬们多多指教，不胜感激! <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zRzRzRzRzRzRzR&count_private=true&show_icons=true&theme=dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zRzRzRzRzRzRzR&count_private=true&show_icons=true&theme=dark) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zRzRzRzRzRzRzR&layout=compact&theme=dark)
 ![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=zRzRzRzRzRzRzR&cn=true&theme=dark)
-
 
 
