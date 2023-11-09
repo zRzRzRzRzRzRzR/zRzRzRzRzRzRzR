@@ -7,8 +7,6 @@
   <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/1.png" width="180" height="240"  />
 </a>
 - :pencil: 大学: XJTLU 西交利物浦大学<br>
-- :penguin: 操作系统: Ubuntu 22.04<br>
-- :robot: 编程: 萌新，菜的抠脚~ <br>
 - :wrench: 刚入坑，请大佬们多多指教，不胜感激! <br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zRzRzRzRzRzRzR&count_private=true&show_icons=true&theme=dark) -->
