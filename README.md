@@ -12,8 +12,6 @@
 - :sleepy: 刚入坑，请大佬们多多指教，不胜感激! <br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zRzRzRzRzRzRzR&count_private=true&show_icons=true&theme=dark) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zRzRzRzRzRzRzR&layout=compact&theme=dark)
-
-
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zRzRzRzRzRzRzR&show_icons=true&theme=tokyonight)
-![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=zRzRzRzRzRzRzR&cn=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zRzRzRzRzRzRzR&layout=compact&theme=dark)![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=zRzRzRzRzRzRzR&cn=true&theme=dark)
