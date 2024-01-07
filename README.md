@@ -1,6 +1,6 @@
 ## Hey 👋, I am zR，A freshman of AI
-I am interning at Zhipu AI, studying LLMs, Agents, and Multimodal Models. I have a passion for open-source and actively engage in related work.
-I am passionate about open-source initiatives and strive for deeper exploration in this realm. My primary research includes the following:<br>
+I am interning at [Zhipu AI](https://www.zhipuai.cn/en/), Researching LLMs, Agents, and Multimodal Models. I have a passion for open-source and actively engage in related work.
+I am passionate about open-source initiatives and strive for deeper exploration in this realm. My primary action includes the following:
 
 + 📄: Doing some Multimodal model research likes [CogAgent](https://arxiv.org/abs/2312.08914)
 + ⭐: Researching the capabilities of model Agents and the integration with Agent frameworks such as [langchain-chatchat](https://github.com/chatchat-space/Langchain-Chatchat/issues)
@@ -13,5 +13,7 @@ I am passionate about open-source initiatives and strive for deeper exploration 
 <a>
   <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/1.png" width="180" height="240"/>
 </a>
+
++ 🌿: My MBTI is ESTJ, I enjoy traveling, drum , and mechanical elements(such as steam trains and typewriters), Welcome to become friends with me!
 
 ![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=zRzRzRzRzRzRzR&cn=true&theme=dark)
