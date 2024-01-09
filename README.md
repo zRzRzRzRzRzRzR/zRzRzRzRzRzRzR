@@ -17,3 +17,9 @@ I am passionate about open-source initiatives and strive for deeper exploration 
 + 🌿: My MBTI is ESTJ, I enjoy traveling, drum , and mechanical elements(such as steam trains and typewriters), Welcome to become friends with me!
 
 ![Leetcode Info](https://stats.justsong.cn/api/leetcode?username=zRzRzRzRzRzRzR&cn=true&theme=dark)
+
+![Static Badge](https://img.shields.io/badge/X-zR-blue?style=social&logo=twitter&logoColor=blue&link=https%3A%2F%2Ftwitter.com%2FzRdianjiao)
+![Static Badge](https://img.shields.io/badge/Wechat-zR_ZYX-green?style=social&logo=wechat&logoColor=green)
+
+
+
