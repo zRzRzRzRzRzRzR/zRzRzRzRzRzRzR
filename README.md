@@ -1,9 +1,10 @@
 ## Hey 👋, I am zR，A freshman of AI
-I am interning at [Zhipu AI](https://www.zhipuai.cn/en/), Researching LLMs, Agents, and Multimodal Models. I have a passion for open-source and actively engage in related work.
+I am a senior undergraduate student from Xi’an Jiaotong-Liverpool University, interning at [Zhipu AI](https://www.zhipuai.cn), Researching LLMs, Agents, and Multimodal Models. I have a passion for open-source and actively engage in related work.
+
 I am passionate about open-source initiatives and strive for deeper exploration in this realm. My primary action includes the following:
 
 + 📄: Doing some Multimodal model research likes [CogAgent](https://arxiv.org/abs/2312.08914)
-+ ⭐: Researching the capabilities of model Agents and the integration with Agent frameworks such as [langchain-chatchat](https://github.com/chatchat-space/Langchain-Chatchat/issues)
++ ⭐: Researching the capabilities of model Agents and the integration with Agent frameworks such as [langchain-chatchat](https://github.com/chatchat-space/Langchain-Chatchat),  [chatpdf](https://github.com/CosmosShadow/gptpdf) 
 + 🏆: Participated in several national competitions, such as [RoboMaster](https://www.robomaster.com/en-US) and [National Students' SmartCar Competition](https://www.smartcar.zone), and achieved some results, including national awards. These competitions have been truly fascinating.
 + 💡: I really enjoy hackathon competitions, I welcome teaming up for these events!
  
