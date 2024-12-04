@@ -1,5 +1,5 @@
 ## Hey 👋, I am zR，A freshman of AI
-I am a senior undergraduate student from Xi’an Jiaotong-Liverpool University, interning at [Zhipu AI](https://www.zhipuai.cn), Researching LLMs, Agents, and Multimodal Models. I have a passion for open-source and actively engage in related work.
+I am a senior undergraduate student from Xi’an Jiaotong-Liverpool University, interning at [Zhipu AI](https://www.zhipuai.cn), Researching in Video generation model and Agents. I have a passion for open-source and actively engage in related work.
 
 I am passionate about open-source initiatives and strive for deeper exploration in this realm. My primary action includes the following:
 
