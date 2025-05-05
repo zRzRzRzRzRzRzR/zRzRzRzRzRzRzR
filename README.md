@@ -1,6 +1,5 @@
 ## Hey 👋, I am zR，A freshman of AI
-I am a senior undergraduate student from Xi’an Jiaotong-Liverpool University, interning at [Zhipu AI](https://www.zhipuai.cn) and I am in [Microsoft Student Ambassador project](https://mvp.microsoft.com/zh-CN/studentambassadors/profile/71e8bffc-1c55-4788-ae8c-49fa009ac99d) and [Intel Student Ambassador project](https://www.intel.com/content/www/us/en/developer/community/ambassadors.html). 
-I am researching in Video generation model and Agents Capability of LLM, I have a passion for open-source and actively engage in related work.
+I am a final-year undergraduate student at Xi’an Jiaotong-Liverpool University, expected to graduate soon. I am working at [Zhipu AI](https://www.zhipuai.cn) and I am in [Microsoft Student Ambassador project](https://mvp.microsoft.com/zh-CN/studentambassadors/profile/71e8bffc-1c55-4788-ae8c-49fa009ac99d) and [Intel Student Ambassador project](https://www.intel.com/content/www/us/en/developer/community/ambassadors.html). 
 
 I am passionate about open-source initiatives and strive for deeper exploration in this realm. My primary action includes the following:
 
