@@ -1,5 +1,5 @@
-# Hey 👋, I’m zR — a soon-to-graduate AI explorer
-I am a final-year undergraduate student at Xi’an Jiaotong-Liverpool University, expected to graduate soon(so busy). I am working at [Zhipu AI](https://www.zhipuai.cn) and I am in [Microsoft Student Ambassador project](https://mvp.microsoft.com/zh-CN/studentambassadors/profile/71e8bffc-1c55-4788-ae8c-49fa009ac99d) and [Intel Student Ambassador project](https://www.intel.com/content/www/us/en/developer/community/ambassadors.html). 
+# Hey 👋, I’m zR
+I am a final-year undergraduate student at Xi’an Jiaotong-Liverpool University. I am working at [Zhipu AI](https://www.zhipuai.cn) and I am in [Microsoft Student Ambassador project](https://mvp.microsoft.com/zh-CN/studentambassadors/profile/71e8bffc-1c55-4788-ae8c-49fa009ac99d) and [Intel Student Ambassador project](https://www.intel.com/content/www/us/en/developer/community/ambassadors.html). 
 
 I am passionate about open-source initiatives and strive for deeper exploration in this realm. My primary action includes the following:
 
