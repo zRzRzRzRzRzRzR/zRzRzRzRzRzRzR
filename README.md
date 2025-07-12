@@ -1,5 +1,6 @@
 # Hey 👋, I’m zR
-I am a final-year undergraduate student at Xi’an Jiaotong-Liverpool University. I am working at [Zhipu AI](https://www.zhipuai.cn) and I am in [Microsoft Student Ambassador project](https://mvp.microsoft.com/zh-CN/studentambassadors/profile/71e8bffc-1c55-4788-ae8c-49fa009ac99d) and [Intel Student Ambassador project](https://www.intel.com/content/www/us/en/developer/community/ambassadors.html). 
+
+I am a recent graduate from [University of Liverpool](https://www.liverpool.ac.uk), currently working at [Zhipu AI](https://www.zhipuai.cn). I was previously involved in the [Microsoft Student Ambassador project](https://mvp.microsoft.com/zh-CN/studentambassadors/profile/71e8bffc-1c55-4788-ae8c-49fa009ac99d) and the [Intel Student Ambassador program](https://www.intel.com/content/www/us/en/developer/community/ambassadors.html) during my undergraduate years.
 
 I am passionate about open-source initiatives and strive for deeper exploration in this realm. My primary action includes the following:
 
