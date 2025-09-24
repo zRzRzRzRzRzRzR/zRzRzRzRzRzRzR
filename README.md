@@ -1,10 +1,8 @@
 # Hey 👋, I’m zR
 
-I am a recent graduate from [University of Liverpool](https://www.liverpool.ac.uk), currently working at [Zhipu AI](https://www.zhipuai.cn). I was previously involved in the [Microsoft Student Ambassador project](https://mvp.microsoft.com/zh-CN/studentambassadors/profile/71e8bffc-1c55-4788-ae8c-49fa009ac99d) and the [Intel Student Ambassador program](https://www.intel.com/content/www/us/en/developer/community/ambassadors.html) during my undergraduate years.
+I have recently started my PhD at the [University of Liverpool](https://www.liverpool.ac.uk), and I am currently working at [Z.ai](z.ai). I am passionate about open-source initiatives and strive for deeper exploration in this realm. My primary action includes the following:
 
-I am passionate about open-source initiatives and strive for deeper exploration in this realm. My primary action includes the following:
-
-+ 📄: Doing some Multimodal model research likes [CogVideoX](https://arxiv.org/abs/2408.06072), [CogAgent](https://arxiv.org/abs/2312.08914)
++ 📄: Engaged in research on models such as [GLM-4.5](https://arxiv.org/abs/2508.06471), [GLM-4.5V](https://arxiv.org/abs/2507.01006), [CogVideoX](https://arxiv.org/abs/2408.06072), [CogAgent](https://arxiv.org/abs/2312.08914)
 + ⭐: Researching the capabilities of model Agents and the integration with Agent frameworks such as [langchain-chatchat](https://github.com/chatchat-space/Langchain-Chatchat),  [chatpdf](https://github.com/CosmosShadow/gptpdf) 
 + 🏆: Participated in several national competitions, such as [RoboMaster](https://www.robomaster.com/en-US) and [National Students' SmartCar Competition](https://www.smartcar.zone), and achieved some results, including national awards. These competitions have been truly fascinating.
 + 💡: I really enjoy hackathon competitions, I welcome teaming up for these events!
