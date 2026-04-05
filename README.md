@@ -2,7 +2,7 @@
 
 I have recently started my PhD at the [University of Liverpool](https://www.liverpool.ac.uk), and I am currently working at [Z.ai](z.ai). I am passionate about open-source initiatives and strive for deeper exploration in this realm. My primary action includes the following:
 
-+ 📄 Bridging model research and real-world engineering, working on open-source models such as [GLM-4.7 & GLM-4.5](https://arxiv.org/abs/2508.06471), [GLM-V](https://arxiv.org/abs/2507.01006), [CogVideoX](https://arxiv.org/abs/2408.06072), [CogAgent](https://arxiv.org/abs/2312.08914), and building practical engineering systems like [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM).
++ 📄 Bridging model research and real-world engineering, working on open-source models such as [GLM-5](https://arxiv.org/abs/2602.15763), [GLM-4.5](https://arxiv.org/abs/2508.06471), [GLM-V](https://arxiv.org/abs/2507.01006), [CogVideoX](https://arxiv.org/abs/2408.06072), [CogAgent](https://arxiv.org/abs/2312.08914), and building practical engineering systems like [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM).
 + ⭐: Researching the capabilities of model Agents and the integration with Agent frameworks such as [langchain-chatchat](https://github.com/chatchat-space/Langchain-Chatchat),  [chatpdf](https://github.com/CosmosShadow/gptpdf) 
 + 🏆: Participated in several national competitions, such as [RoboMaster](https://www.robomaster.com/en-US) and [National Students' SmartCar Competition](https://www.smartcar.zone), and achieved some results, including national awards. These competitions have been truly fascinating.
 + 💡: I really enjoy hackathon competitions, I welcome teaming up for these events!
