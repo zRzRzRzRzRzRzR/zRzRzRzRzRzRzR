@@ -1,0 +1,9 @@
+.idea
+.vscode
+.DS_Store
+/build
+venv
+.env
+.claude
+__pycache__
+cache*

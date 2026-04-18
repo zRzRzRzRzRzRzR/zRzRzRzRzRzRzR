@@ -8,11 +8,9 @@ I have recently started my PhD at the [University of Liverpool](https://www.live
 + 💡: I really enjoy hackathon competitions, I welcome teaming up for these events!
  
 <a>
-  <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/logo2.png"  width="80" height="80" border="80"/>
+  <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/logo.png"  width="80" height="80" border="80"/>
 </a>
-<a>
-  <img align="right" src="https://github.com/zRzRzRzRzRzRzR/zRzRzRzRzRzRzR/blob/main/Pic/1.png" width="180" height="240"/>
-</a>
+
 
 + 🌿: My MBTI is ESTJ, I enjoy traveling, drum , and mechanical elements(such as steam trains and typewriters), Welcome to become friends with me!
 
